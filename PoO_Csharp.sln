@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{AA0CAE55-8833-4BC1-A8A8-CE71490EC8E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca\Heranca.csproj", "{AA0CAE55-8833-4BC1-A8A8-CE71490EC8E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_ModifAcesso", "Heranca_ModifAcesso\Heranca_ModifAcesso.csproj", "{D9507271-EE66-4615-BE9E-4CFCB2C2721B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Construtores", "Heranca_Construtores\Heranca_Construtores.csproj", "{530D64F5-4553-403E-B7A8-EFA5E868DF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Objeto", "Heranca_Objeto\Heranca_Objeto.csproj", "{86D6AAED-DA79-479C-8867-104ACDD7A323}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{AA0CAE55-8833-4BC1-A8A8-CE71490EC8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA0CAE55-8833-4BC1-A8A8-CE71490EC8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA0CAE55-8833-4BC1-A8A8-CE71490EC8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9507271-EE66-4615-BE9E-4CFCB2C2721B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9507271-EE66-4615-BE9E-4CFCB2C2721B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9507271-EE66-4615-BE9E-4CFCB2C2721B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9507271-EE66-4615-BE9E-4CFCB2C2721B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530D64F5-4553-403E-B7A8-EFA5E868DF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530D64F5-4553-403E-B7A8-EFA5E868DF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530D64F5-4553-403E-B7A8-EFA5E868DF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530D64F5-4553-403E-B7A8-EFA5E868DF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D6AAED-DA79-479C-8867-104ACDD7A323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D6AAED-DA79-479C-8867-104ACDD7A323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D6AAED-DA79-479C-8867-104ACDD7A323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D6AAED-DA79-479C-8867-104ACDD7A323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
