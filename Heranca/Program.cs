@@ -1,4 +1,4 @@
-﻿Console.WriteLine(" \nHerança\n");
+﻿Console.WriteLine(" \nHerança---> Não pode herdar mais de uma classe Base \n");
 
 Funcionario funcionario = new Funcionario();
 funcionario.Nome = "Leandro";
@@ -23,7 +23,7 @@ aluno.Indetificar();
 
 Console.ReadKey();
 
-
+// class base
 public class Pessoa
 {
     public string Nome{ get; set; }
@@ -34,13 +34,13 @@ public class Pessoa
         Console.WriteLine($"{Nome} - {Email}");
     }
 }
-
+// classe derivada herda Pessoa
 public class Funcionario: Pessoa
 {
     public string Empresa { get; set; }
     public decimal Salario { get; set; }
 
-}
+}// classe derivada herda Pessoa
 public class Aluno : Pessoa
 {
     public string Curso { get; set; }
