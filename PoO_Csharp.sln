@@ -19,7 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerancaSealed", "HerancaSea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioHerancaBanco", "ExercicioHeranca\ExercicioHerancaBanco.csproj", "{0A0974CE-A6C8-4779-8BED-C31E04D9FE9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaClassDiagram", "HerancaClassDiagram\HerancaClassDiagram.csproj", "{4F7A5CFD-8824-4E04-A641-5ADFBA94EDF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerancaClassDiagram", "HerancaClassDiagram\HerancaClassDiagram.csproj", "{4F7A5CFD-8824-4E04-A641-5ADFBA94EDF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerancaUpscanting", "HerancaUpscantingDowncasting\HerancaUpscanting.csproj", "{3490520D-EE19-4C9F-98F0-007B267C4313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaDowncasting", "HerancaDowncasting\HerancaDowncasting.csproj", "{FE57C011-E11F-48CC-B47D-AB4E84C4C7D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaAseIs", "HerancaAs\HerancaAseIs.csproj", "{43BEA886-EA84-4D83-8AF3-19F66307B85F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{4F7A5CFD-8824-4E04-A641-5ADFBA94EDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F7A5CFD-8824-4E04-A641-5ADFBA94EDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F7A5CFD-8824-4E04-A641-5ADFBA94EDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3490520D-EE19-4C9F-98F0-007B267C4313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3490520D-EE19-4C9F-98F0-007B267C4313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3490520D-EE19-4C9F-98F0-007B267C4313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3490520D-EE19-4C9F-98F0-007B267C4313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE57C011-E11F-48CC-B47D-AB4E84C4C7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE57C011-E11F-48CC-B47D-AB4E84C4C7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE57C011-E11F-48CC-B47D-AB4E84C4C7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE57C011-E11F-48CC-B47D-AB4E84C4C7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BEA886-EA84-4D83-8AF3-19F66307B85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BEA886-EA84-4D83-8AF3-19F66307B85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BEA886-EA84-4D83-8AF3-19F66307B85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BEA886-EA84-4D83-8AF3-19F66307B85F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
